@@ -1,1 +1,1 @@
-# GAN Image Generation - MNIST Dataset
+# Image Generation with GANs - MNIST Dataset
